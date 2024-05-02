@@ -1,1 +1,2 @@
-yang bisa bikin koneksi php silahkan berkontribusi
+// konekasi
+// fungsai

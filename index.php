@@ -1,2 +1,2 @@
-yang bisa design indek silahkan berkontribusi
+//yang bisa design indek silahkan berkontribusi
 
